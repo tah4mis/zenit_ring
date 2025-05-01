@@ -1,16 +1,23 @@
-# nfc_ring_app
+# Zenit Ring App
 
-A new Flutter project.
+NFC özellikli yüzük için Flutter tabanlı mobil uygulama.
 
-## Getting Started
+## Özellikler
 
-This project is a starting point for a Flutter application.
+- NFC yüzük okuma ve yazma
+- Kart yönetimi
+- İşlem geçmişi
+- Bakiye takibi
 
-A few resources to get you started if this is your first Flutter project:
+## Kurulum
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Flutter'ı yükleyin
+2. Projeyi klonlayın
+3. Bağımlılıkları yükleyin: `flutter pub get`
+4. Uygulamayı çalıştırın: `flutter run`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Gereksinimler
+
+- Flutter SDK
+- Android Studio / VS Code
+- NFC destekli Android cihaz
